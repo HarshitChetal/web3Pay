@@ -21,7 +21,7 @@ MetaMask installed
 Sepolia test ETH (from faucet)
 Node.js installed
 Setup
-git clone https://github.com/your-username/digi3pay.git
+git clone https://github.com/Harshit/digi3pay.git
 cd digi3pay
 npm install
 npm start
