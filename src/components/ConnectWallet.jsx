@@ -23,7 +23,7 @@ export default function ConnectWallet({ onConnect }) {
           Welcome to
         </div>
         <h1 className="block mt-1 text-3xl font-bold text-gray-900">
-          PayPaglu
+          Digi3Pay
         </h1>
         <p className="mt-4 text-gray-500">
           A Web3 remittance app for sending money via usernames, phone numbers,

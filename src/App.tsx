@@ -65,7 +65,7 @@ const handleMorphClick = () => {
       {/* Right side with content */}
       <div className="w-full md:w-3/5 bg-transparent backdrop-blur-sm p-8">
         <h2 className="text-3xl font-bold text-gray-900 mb-4 animate-[fadeIn_0.6s_ease-out]">
-          Welcome to <span className="text-orange-500">PayPaglu</span>
+          Welcome to <span className="text-orange-500">Digi3Pay</span>
         </h2>
         
         <div className="flex justify-center mb-6 animate-[fadeIn_0.6s_ease-out_100ms]">

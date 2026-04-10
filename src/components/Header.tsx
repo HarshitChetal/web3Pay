@@ -30,7 +30,7 @@ const handleCopy = () => {
             className="h-8 w-8 object-contain"  // Adjust size as needed
           />
           <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-            PayPaglu
+            Digi3Pay
           </h1>
         </div>
       </div>
